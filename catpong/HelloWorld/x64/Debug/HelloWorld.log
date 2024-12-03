@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (HelloWorld.vcxproj, prog proj.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Ball.cpp
+  CpuPaddle.cpp
+C:\Users\brent\Documents\Programming Project\HelloWorld\HelloWorld\Ball.cpp(16,56): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\brent\Documents\Programming Project\HelloWorld\HelloWorld\Ball.cpp(16,56): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\brent\Documents\Programming Project\HelloWorld\HelloWorld\Ball.cpp(16,68): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\brent\Documents\Programming Project\HelloWorld\HelloWorld\Ball.cpp(16,68): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\brent\Documents\Programming Project\HelloWorld\HelloWorld\Ball.cpp(48,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\brent\Documents\Programming Project\HelloWorld\HelloWorld\Ball.cpp(49,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\brent\Documents\Programming Project\HelloWorld\HelloWorld\main.cpp(109,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\brent\Documents\Programming Project\HelloWorld\HelloWorld\main.cpp(111,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brent\Documents\Programming Project\HelloWorld\HelloWorld\main.cpp(116,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\brent\Documents\Programming Project\HelloWorld\HelloWorld\main.cpp(142,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Paddle.cpp
+  PlayerPaddle.cpp
+  Generating Code...
+  HelloWorld.vcxproj -> C:\Users\brent\Documents\Programming Project\HelloWorld\x64\Debug\catpong.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
